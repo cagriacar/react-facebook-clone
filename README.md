@@ -7,7 +7,7 @@ paketleri yükleyin .json
 
 ## npm start
 
-hosting: https://twitter-clone-9c505.web.app/
+
 
 
 ## İçerik
